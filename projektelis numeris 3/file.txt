@@ -1,0 +1,9 @@
+BMW___X7___0___0___false
+VW___Passat___0___0___false
+Toyota___Hilux___20___50___false
+BMW___X3___0___0___false
+VW___Golf___0___0___false
+Toyota___Corola___20___50___false
+BMW___X5___0___0___false
+VW___Jetta___0___0___false
+Toyota___Camry___20___50___false
